@@ -5,7 +5,7 @@
 
 This repository is Xiao Zhang's implementation of Assignment_01 of DIP. 
 
-<img src="pics/teaser.png" alt="alt text" width="800">
+<img src="images/0.png" alt="alt text" width="800">
 
 ## Requirements
 
