@@ -36,8 +36,8 @@ python run_point_transform.py
 https://github.com/GrowLaugh/zuoye/issues/2#issue-2555854691
   
 ### Point Guided Deformation:
-[![Watch the video](https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388)]
-<iframe src="images/cxk2.pt.mp4" alt="alt text" width="800">
+
+<iframe src="https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388)" alt="alt text" width="800">
 <iframe src="images/cxk.pt.mp4" alt="alt text" width="800">
 <iframe src="images/mnls.pt.mp4" alt="alt text" width="800">
 
