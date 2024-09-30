@@ -41,6 +41,10 @@ https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388)
 https://github.com/GrowLaugh/zuoye/blob/main/01_ImageWarping/images/cxk2.pt.mp4
 
 
+https://github.com/user-attachments/assets/ac66f094-08dd-4e55-8947-c641c52bc739
+
+
+
 ## Acknowledgement
 
 >📋 Thanks for the algorithms proposed by [Image Deformation Using Moving Least Squares](https://people.engr.tamu.edu/schaefer/research/mls.pdf).
