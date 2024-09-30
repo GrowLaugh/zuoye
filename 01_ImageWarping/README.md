@@ -33,7 +33,7 @@ python run_point_transform.py
 ## Results (need add more result images)
 ### Basic Transformation
 [![Watch the video](https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388)]
-
+https://github.com/user-attachments/assets/11bd4bae-f5ad-45c4-a259-3d319ea86ab2
 <iframe src="images/mnls.tr.mp4" alt="alt text" width="800">
 
 ### Point Guided Deformation:
