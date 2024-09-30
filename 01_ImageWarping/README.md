@@ -38,7 +38,7 @@ https://github.com/GrowLaugh/zuoye/issues/2#issue-2555854691
 ### Point Guided Deformation:
 
 https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388) 
-
+https://github.com/GrowLaugh/zuoye/blob/main/01_ImageWarping/images/cxk2.pt.mp4
 
 
 ## Acknowledgement
