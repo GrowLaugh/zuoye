@@ -1,6 +1,5 @@
 # Assignment 1 - Image Warping
 
----
 ## Implementation of Image Geometric Transformation
 
 This repository is Xiao Zhang's implementation of Assignment_01 of DIP. 
@@ -33,9 +32,14 @@ python run_point_transform.py
 ## Results (need add more result images)
 ### Basic Transformation
 
+
 https://github.com/user-attachments/assets/d95265f3-efe2-4dd4-b124-f8b7ddbe9fbb
-  
+
+
+---
 ### Point Guided Deformation:
+
+
 
 https://github.com/user-attachments/assets/c8c3a39c-50ef-446c-bb74-6aca98d11dd2
 
