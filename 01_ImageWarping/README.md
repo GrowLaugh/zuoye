@@ -4,10 +4,9 @@
 
 This repository is Xiao Zhang's implementation of Assignment_01 of DIP. 
 
-<img src="images/0.png" alt="alt text" width="800">
-<img src="images/1.png" alt="alt text" width="200">
-<img src="images/2.png" alt="alt text" width="300">
-<img src="images/3.png" alt="alt text" width="400">
+<img src="images/0.png" alt="alt text" width="200"><img src="images/3.png" alt="alt text" width="200">
+<img src="images/1.png" alt="alt text" width="200"><img src="images/2.png" alt="alt text" width="200">
+
 
 ## Requirements
 
