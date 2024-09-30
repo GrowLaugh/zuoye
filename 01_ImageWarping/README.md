@@ -32,14 +32,7 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<iframe 
-  src="images/cxk2.tr.mp4" 
-  scrolling="no" 
-  border="0" 
-  frameborder="no" 
-  framespacing="0" 
-  allowfullscreen="true">
-  </iframe>
+https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388
 
 <iframe src="images/mnls.tr.mp4" alt="alt text" width="800">
 
