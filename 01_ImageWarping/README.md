@@ -32,13 +32,13 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<img src="images/cxk2.tr.mp4" alt="alt text" width="800">
-<img src="images/mnls.tr.mp4" alt="alt text" width="800">
+<iframe src="images/cxk2.tr.mp4" alt="alt text" width="800">
+<iframe src="images/mnls.tr.mp4" alt="alt text" width="800">
 
 ### Point Guided Deformation:
-<img src="images/cxk2.pt.mp4" alt="alt text" width="800">
-<img src="images/cxk.pt.mp4" alt="alt text" width="800">
-<img src="images/mnls.pt.mp4" alt="alt text" width="800">
+<iframe src="images/cxk2.pt.mp4" alt="alt text" width="800">
+<iframe src="images/cxk.pt.mp4" alt="alt text" width="800">
+<iframe src="images/mnls.pt.mp4" alt="alt text" width="800">
 
 
 ## Acknowledgement
