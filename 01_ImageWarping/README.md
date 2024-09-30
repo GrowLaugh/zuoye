@@ -32,7 +32,8 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<iframe src="images/cxk2.tr.mp4" ></iframe>
+<iframe src="images/cxk2.tr.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 <iframe src="images/mnls.tr.mp4" alt="alt text" width="800">
 
 ### Point Guided Deformation:
