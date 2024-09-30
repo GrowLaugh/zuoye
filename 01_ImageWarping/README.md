@@ -32,7 +32,7 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388
+[![Watch the video](https://github.com/GrowLaugh/zuoye/issues/1#issue-2555831388)]
 
 <iframe src="images/mnls.tr.mp4" alt="alt text" width="800">
 
