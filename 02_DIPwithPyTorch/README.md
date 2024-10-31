@@ -38,7 +38,7 @@ See more in [results_image subfolder](results_image/).
 ---
 ### Requirements:
 - 请自行环境配置，推荐使用[conda环境](https://docs.anaconda.com/miniconda/)
--or  :
+- or  :
 ```setup
 python -m pip install -r requirements.txt
 ```
@@ -50,9 +50,9 @@ To run poisson image editing , run:
 python run_blending_gradio.py
 ```
 
-To run Pix2Pix,
--put [train_list.txt](Pix2Pix/datasets/facades/train_list/) and [val_list.txt](Pix2Pix/datasets/facades/val_list/) into [Pix2Pix](Pix2Pix/) .
--run:
+To run Pix2Pix
+- put [train_list.txt](Pix2Pix/datasets/facades/train_list/) and [val_list.txt](Pix2Pix/datasets/facades/val_list/) into [Pix2Pix](Pix2Pix/) .
+- run:
 ```point
 python train.py
 ```
