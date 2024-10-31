@@ -51,7 +51,7 @@ python run_blending_gradio.py
 ```
 
 To run Pix2Pix, run:
-
+put [train_list.txt](datasets/facades/train_list/) and [val_list.txt](datasets/facades/val_list/) into [Pix2Pix] .
 ```point
 python train.py
 ```
