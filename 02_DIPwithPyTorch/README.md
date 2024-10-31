@@ -50,8 +50,9 @@ To run poisson image editing , run:
 python run_blending_gradio.py
 ```
 
-To run Pix2Pix, run:
-put [train_list.txt](datasets/facades/train_list/) and [val_list.txt](datasets/facades/val_list/) into [Pix2Pix] .
+To run Pix2Pix,
+-put [train_list.txt](Pix2Pix/datasets/facades/train_list/) and [val_list.txt](Pix2Pix/datasets/facades/val_list/) into [Pix2Pix](Pix2Pix/) .
+-run:
 ```point
 python train.py
 ```
