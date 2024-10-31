@@ -42,7 +42,7 @@ See more in [results_image subfolder](results_image/).
 - 请自行环境配置，推荐使用[conda环境](https://docs.anaconda.com/miniconda/)
 - or  :
 ```setup
-python -m pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 ## Running
 
