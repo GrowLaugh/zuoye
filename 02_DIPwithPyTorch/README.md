@@ -25,23 +25,14 @@ See more in [results_image subfolder](results_image/).
 <img src="results_image/facades_val_epoch_795/result_3.png" alt="alt text" width="480">  <img src="results_image/facades_val_epoch_795/result_4.png" alt="alt text" width="480">
 <img src="results_image/facades_val_epoch_795/result_5.png" alt="alt text" width="480">  
 
-#### cityscapes train results(epoch_650)
-<img src="results_image/cityscapes/cityscapes_epoch_650/result_1.png" alt="alt text" width="480">  <img src="results_image/cityscapes/cityscapes_epoch_650/result_2.png" alt="alt text" width="480">
-<img src="results_image/cityscapes/cityscapes_epoch_650/result_3.png" alt="alt text" width="480">  <img src="results_image/cityscapes/cityscapes_epoch_650/result_4.png" alt="alt text" width="480">
-<img src="results_image/cityscapes/cityscapes_epoch_650/result_5.png" alt="alt text" width="480">  
 
-
-#### cityscapes train results(epoch_795)
+#### cityscapes train results
 <img src="results_image/cityscapes/train_epoch_795/result_1.png" alt="alt text" width="480">  <img src="results_image/cityscapes/train_epoch_795/result_2.png" alt="alt text" width="480">
 <img src="results_image/cityscapes/train_epoch_795/result_3.png" alt="alt text" width="480">  <img src="results_image/cityscapes/train_epoch_795/result_4.png" alt="alt text" width="480">
 <img src="results_image/cityscapes/train_epoch_795/result_5.png" alt="alt text" width="480">  
 
-#### cityscapes val results(epoch_650)
-<img src="results_image/cityscapes/cityscapes_val_epoch_650/result_1.png" alt="alt text" width="480">  <img src="results_image/cityscapes/cityscapes_val_epoch_650/result_2.png" alt="alt text" width="480">
-<img src="results_image/cityscapes/cityscapes_val_epoch_650/result_3.png" alt="alt text" width="480">  <img src="results_image/cityscapes/cityscapes_val_epoch_650/result_4.png" alt="alt text" width="480">
-<img src="results_image/cityscapes/cityscapes_val_epoch_650/result_5.png" alt="alt text" width="480">  
 
-#### cityscapes train results(epoch_795)
+#### cityscapes val results
 <img src="results_image/cityscapes/val_epoch_795/result_1.png" alt="alt text" width="480">  <img src="results_image/cityscapes/val_epoch_795/result_2.png" alt="alt text" width="480">
 <img src="results_image/cityscapes/val_epoch_795/result_3.png" alt="alt text" width="480">  <img src="results_image/cityscapes/val_epoch_795/result_4.png" alt="alt text" width="480">
 <img src="results_image/cityscapes/val_epoch_795/result_5.png" alt="alt text" width="480">  
