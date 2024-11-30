@@ -27,6 +27,11 @@ python facealingment_example.py
 For draggan, the generated pictures and videos are in the folder [draggan_tmp](https://github.com/GrowLaugh/zuoye/tree/main/03_PlayWithGANs/Automatically%20Edit%20Faces/draggan_tmp).
 
 <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://s17.aconvert.com/convert/p3r68-cdx67/8ok2e-7m1qw.gif"  style="width: 200px;">
+    <img src="https://github.com/user-attachments/assets/ff3b99e5-6cbd-450e-a0d5-62e6b625651e"  style="width: 200px;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9ypp3-dn9fi.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/10f007a7-056c-411a-aaba-2d06a9b2390b"  style="width: 200px;">
 </div>
@@ -54,18 +59,21 @@ The Gradio interface may be unstable, but the images and videos generated after 
 
 
 ##### Expression: enlarge eyes
+
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s21.aconvert.com/convert/p3r68-cdx67/xsnd1-oeybe.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/52f2c7bd-127b-4573-9e82-06e42706028d"  style="width: 200px;">
 </div>
 
-##### Expression: close eyes       
+##### Expression: close eyes   
+
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9p8fw-396ns.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/02ad8cf3-5f7c-4ace-ad8a-af0bfb6e0975"  style="width: 200px;">
 </div>
 
-##### Expression: slim face     
+##### Expression: slim face   
+
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9c8ih-5jwpy.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/59b16d37-725c-4f79-91e5-bfea91682c4e"  style="width: 200px;">
@@ -73,6 +81,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 
 
 ##### Expression: smile mouth  
+
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s31.aconvert.com/convert/p3r68-cdx67/fewzr-n0ozr.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/ac147e79-6b6f-4ebb-af87-64434f93475e"  style="width: 200px;">
