@@ -65,6 +65,8 @@ The Gradio interface may be unstable, but the images and videos generated after 
      <img src="https://github.com/user-attachments/assets/52f2c7bd-127b-4573-9e82-06e42706028d"  style="width: 200px;">
 </div>
 
+ <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9ypp3-dn9fi.gif"  style="width: 200px;">
+ 
 ##### Expression: close eyes   
 
 <div style="display: flex; justify-content: center; align-items: center;">
