@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: draggan
+Version: 1.1.6
+Requires-Dist: gradio==3.34.0
+Requires-Dist: tqdm
+Requires-Dist: torch>=1.8
+Requires-Dist: torchvision
+Requires-Dist: numpy
+Requires-Dist: ninja
+Requires-Dist: fire
+Requires-Dist: imageio
+Requires-Dist: imageio-ffmpeg
+Requires-Dist: scikit-image
+Requires-Dist: IPython
