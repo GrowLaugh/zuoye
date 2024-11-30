@@ -25,10 +25,7 @@ python draggan_example.py
 python facealingment_example.py
 ```
 For draggan, the generated pictures and videos are in the folder [draggan_tmp](https://github.com/GrowLaugh/zuoye/tree/main/03_PlayWithGANs/Automatically%20Edit%20Faces/draggan_tmp).
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://s17.aconvert.com/convert/p3r68-cdx67/8ok2e-7m1qw.gif"  style="width: 200px;">
-    <img src="https://github.com/user-attachments/assets/ff3b99e5-6cbd-450e-a0d5-62e6b625651e"  style="width: 200px;">
-</div>
+
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9ypp3-dn9fi.gif"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/10f007a7-056c-411a-aaba-2d06a9b2390b"  style="width: 200px;">
@@ -39,6 +36,7 @@ For face alignment, you can see a picture:
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/f2cf0b5b-6eca-4864-9d99-5fd6c6b76938" alt="Figure_1" style="width: 600px;">
 </div>
+
 #### Running
 
 To run Automatically Edit Faces, run:
