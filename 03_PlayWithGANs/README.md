@@ -38,7 +38,7 @@ For draggan, the generated pictures and videos are in the folder [draggan_tmp](h
 
 For face alignment, you can see a picture:
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/f2cf0b5b-6eca-4864-9d99-5fd6c6b76938" alt="Figure_1" style="width: 600px;">
+    <img src="https://github.com/user-attachments/assets/f2cf0b5b-6eca-4864-9d99-5fd6c6b76938" alt="Figure_1" style="width: 500px;">
 </div>
 
 #### Running
@@ -60,22 +60,24 @@ The Gradio interface may be unstable, but the images and videos generated after 
 ##### Expression: enlarge eyes
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="https://s21.aconvert.com/convert/p3r68-cdx67/xsnd1-oeybe.gif"  style="width: 200px;">
+     <img src="https://github.com/user-attachments/assets/03dd0d24-0f9f-4b98-aa59-89e72c592af2"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/52f2c7bd-127b-4573-9e82-06e42706028d"  style="width: 200px;">
 </div>
 
- 
+
+
 ##### Expression: close eyes   
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9p8fw-396ns.gif"  style="width: 200px;">
+     <img src="https://github.com/user-attachments/assets/65cf169b-53e9-4bec-815c-178480890c39"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/02ad8cf3-5f7c-4ace-ad8a-af0bfb6e0975"  style="width: 200px;">
 </div>
+
 
 ##### Expression: slim face   
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="https://s19.aconvert.com/convert/p3r68-cdx67/9c8ih-5jwpy.gif"  style="width: 200px;">
+     <img src="https://github.com/user-attachments/assets/b56fb384-70bd-4227-b309-065ba7c04806"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/59b16d37-725c-4f79-91e5-bfea91682c4e"  style="width: 200px;">
 </div>
 
@@ -83,9 +85,10 @@ The Gradio interface may be unstable, but the images and videos generated after 
 ##### Expression: smile mouth  
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="https://s31.aconvert.com/convert/p3r68-cdx67/fewzr-n0ozr.gif"  style="width: 200px;">
+     <img src="https://github.com/user-attachments/assets/c40a955e-abfc-4bbb-a28c-1e884547f798"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/ac147e79-6b6f-4ebb-af87-64434f93475e"  style="width: 200px;">
 </div>
+
 
 ### Acknowledgement
 
