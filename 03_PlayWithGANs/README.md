@@ -5,7 +5,7 @@
 ---
 ### Task 1: Increment hw2 with Discriminative Loss
 
-
+组里事情比较多，第一个任务还没学完，12/5号提交
 
 ### Task 2: Automatically Edit Faces
 
