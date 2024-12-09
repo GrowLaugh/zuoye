@@ -14,7 +14,6 @@ python train_end.py
 ```
 ### Results
 ##### loss function：cgan+L2
-##### network:from FCN to U-net
 #### cgan facades
 ##### train results（epoch200，795）:
 <img src="increment hw2 cgan/datasets/facades/semantic2rgb/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/train795.png" alt="alt text" width="400">
