@@ -3,14 +3,34 @@
 ### In this assignment, you will implement two methods for using GANs in digital image processing.
 
 ---
-### Task 1: Increment hw2 with Discriminative Loss
+## Task 1: Increment hw2 with Discriminative Loss
+### Running
+run:
 
-组里事情比较多，第一个任务还没学完，12/10号提交
+```bash
+bash download_facades_dataset.sh
+python train_end.py
+```
+### Results
 
-### Task 2: Automatically Edit Faces
+See more in the folder [hw2](https://github.com/GrowLaugh/zuoye/tree/main/03_PlayWithGANs/Increment%20hw2%20with%20Discriminative%20Loss/hw2).
+#### cgan cityscapes 
+##### train results:
+<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/train100.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/train400.png" alt="alt text" width="400">
+
+##### val results:
+<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/val100.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/val400.png" alt="alt text" width="400">
+
+##### from semantic to rgb train results:
+<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/train20.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/train80.png" alt="alt text" width="400">
+
+##### from semantic to rgb val results:
+<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
+
+## Task 2: Automatically Edit Faces
 
 
-#### Setup
+### Setup
 1. Download the [DragGAN](https://github.com/OpenGVLab/DragGAN) codebase and the [Facial Landmarks Detection](https://github.com/1adrianb/face-alignment) codebase. 
 
 To use the codebase:
@@ -41,7 +61,7 @@ For face alignment, you can see a picture:
     <img src="https://github.com/user-attachments/assets/f2cf0b5b-6eca-4864-9d99-5fd6c6b76938" alt="Figure_1" style="width: 500px;">
 </div>
 
-#### Running
+### Running
 
 To run Automatically Edit Faces, run:
 
@@ -57,7 +77,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 
 
 
-##### Expression: enlarge eyes
+#### Expression: enlarge eyes
 
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://github.com/user-attachments/assets/03dd0d24-0f9f-4b98-aa59-89e72c592af2"  style="width: 200px;">
@@ -66,7 +86,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 
 
 
-##### Expression: close eyes   
+#### Expression: close eyes   
 
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://github.com/user-attachments/assets/65cf169b-53e9-4bec-815c-178480890c39"  style="width: 200px;">
@@ -74,7 +94,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 </div>
 
 
-##### Expression: slim face   
+#### Expression: slim face   
 
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://github.com/user-attachments/assets/b56fb384-70bd-4227-b309-065ba7c04806"  style="width: 200px;">
@@ -82,7 +102,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 </div>
 
 
-##### Expression: smile mouth  
+#### Expression: smile mouth  
 
 <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://github.com/user-attachments/assets/c40a955e-abfc-4bbb-a28c-1e884547f798"  style="width: 200px;">
@@ -90,7 +110,7 @@ The Gradio interface may be unstable, but the images and videos generated after 
 </div>
 
 
-### Acknowledgement
+## Acknowledgement
 
 >📋 Thanks for the algorithms proposed by [GAN-Pytorch](https://github.com/growvv/GAN-Pytorch) and [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [DragGAN](https://github.com/autonomousvision/draggan) and [Face-Alingment](https://github.com/1adrianb/face-alignment)
 
