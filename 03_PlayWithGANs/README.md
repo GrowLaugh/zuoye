@@ -4,6 +4,7 @@
 
 ---
 ## Task 1: Increment hw2 with Discriminative Loss
+
 ### Running
 run:
 
@@ -12,20 +13,29 @@ bash download_facades_dataset.sh
 python train_end.py
 ```
 ### Results
-
-See more in the folder [hw2](https://github.com/GrowLaugh/zuoye/tree/main/03_PlayWithGANs/Increment%20hw2%20with%20Discriminative%20Loss/hw2).
+##### loss function：cgan+L2
+##### network:from FCN to U-net
 #### cgan cityscapes 
-##### train results:
+##### train results（epoch100，400）:
 <img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train100.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train400.png" alt="alt text" width="400">
 
-##### val results:
+##### val results（epoch100，400）:
 <img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/val100.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/val400.png" alt="alt text" width="400">
 
-##### from semantic to rgb train results:
+##### from semantic to rgb train results（epoch20，80）:
 <img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/train20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/train80.png" alt="alt text" width="400">
 
-##### from semantic to rgb val results:
+##### from semantic to rgb val results（epoch20，80）:
 <img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
+
+
+#### cgan facades
+##### train results（epoch200，795）:
+<img src="increment hw2 cgan/datasets/facades/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train795.png" alt="alt text" width="400">
+
+##### val results（epoch100，400）:
+<img src="increment hw2 cgan/datasets/facades/val200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/val795.png" alt="alt text" width="400">
+
 
 ## Task 2: Automatically Edit Faces
 
