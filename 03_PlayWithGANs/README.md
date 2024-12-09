@@ -28,13 +28,12 @@ python train_end.py
 ##### from semantic to rgb val results（epoch20，80）:
 <img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
 
-
 #### cgan facades
 ##### train results（epoch200，795）:
-<img src="increment hw2 cgan/datasets/facades/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train795.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/facades/semantic2rgb/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/semantic2rgb/train795.png" alt="alt text" width="400">
 
 ##### val results（epoch100，400）:
-<img src="increment hw2 cgan/datasets/facades/val200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/val795.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/facades/semantic2rgb/val200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/val795.png" alt="alt text" width="400">
 
 
 ## Task 2: Automatically Edit Faces
