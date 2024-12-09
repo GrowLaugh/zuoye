@@ -6,7 +6,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader
 from facades_dataset import FacadesDataset
-from cgan import cGAN_gen, cGAN_disc
+from cgan_final import cGAN_gen, cGAN_disc
 from torch.optim.lr_scheduler import StepLR
 
 def tensor_to_image(tensor):
@@ -74,10 +74,10 @@ def train_one_epoch(gen, disc, dataloader, optimizer_d,optimizer_g, device, epoc
         optimizer_d.zero_grad()
 
         loss_real_D = nn.BCELoss()(real_out, real_label)
-        loss_fake_D = nn.BCELoss()(fake_out, fake_label)               ## 得到真实图片的loss
+        loss_fake_D = nn.BCELoss()(fake_out, fake_label)               
         loss_D=loss_fake_D+loss_real_D
         loss_D.backward()
-        optimizer_d.step()#只更新discriminator的参数
+        optimizer_d.step()
         
 
         #G
@@ -85,9 +85,9 @@ def train_one_epoch(gen, disc, dataloader, optimizer_d,optimizer_g, device, epoc
         gen_imgs = gen(noise,image_semantic)                         
         out = disc(gen_imgs,image_semantic)  
         optimizer_g.zero_grad()
-        loss_G = nn.BCELoss()(out, real_label)+0.25*nn.MSELoss()(gen_imgs,image_rgb)###这里的权重用0.25会不会太小了
+        loss_G = nn.BCELoss()(out, real_label)+0.25*nn.MSELoss()(gen_imgs,image_rgb)
         loss_G.backward()
-        optimizer_g.step()#只更新 generator 的参数
+        optimizer_g.step()
 
         # Save sample images every 5 epochs
         if epoch % 5 == 0 and i == 0:
