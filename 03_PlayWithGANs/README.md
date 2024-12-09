@@ -16,16 +16,16 @@ python train_end.py
 See more in the folder [hw2](https://github.com/GrowLaugh/zuoye/tree/main/03_PlayWithGANs/Increment%20hw2%20with%20Discriminative%20Loss/hw2).
 #### cgan cityscapes 
 ##### train results:
-<img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train100.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/train400.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train100.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train400.png" alt="alt text" width="400">
 
 ##### val results:
-<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/val100.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/rgb2semantic/val400.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/val100.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/val400.png" alt="alt text" width="400">
 
 ##### from semantic to rgb train results:
-<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/train20.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/train80.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/train20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/train80.png" alt="alt text" width="400">
 
 ##### from semantic to rgb val results:
-<img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="03_PlayWithGANs/increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
+<img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
 
 ## Task 2: Automatically Edit Faces
 
