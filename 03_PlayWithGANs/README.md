@@ -15,6 +15,13 @@ python train_end.py
 ### Results
 ##### loss function：cgan+L2
 ##### network:from FCN to U-net
+#### cgan facades
+##### train results（epoch200，795）:
+<img src="increment hw2 cgan/datasets/facades/semantic2rgb/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/train795.png" alt="alt text" width="400">
+
+##### val results（epoch200，795）:
+<img src="increment hw2 cgan/datasets/facades/semantic2rgb/val200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/val795.png" alt="alt text" width="400">
+
 #### cgan cityscapes 
 ##### train results（epoch100，400）:
 <img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train100.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/rgb2semantic/train400.png" alt="alt text" width="400">
@@ -28,12 +35,6 @@ python train_end.py
 ##### from semantic to rgb val results（epoch20，80）:
 <img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val20.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/cityscapes/semantic2rgb/val80.png" alt="alt text" width="400">
 
-#### cgan facades
-##### train results（epoch200，795）:
-<img src="increment hw2 cgan/datasets/facades/semantic2rgb/train200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/train795.png" alt="alt text" width="400">
-
-##### val results（epoch100，400）:
-<img src="increment hw2 cgan/datasets/facades/semantic2rgb/val200.png" alt="alt text" width="400"><img src="increment hw2 cgan/datasets/facades/semantic2rgb/val795.png" alt="alt text" width="400">
 
 
 ## Task 2: Automatically Edit Faces
