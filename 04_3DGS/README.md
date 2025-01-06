@@ -84,9 +84,11 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 chair&lego (epoch 0,100,199):
 
-<img src="data/chair/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt text" width="400">
-<img src="data/chair/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt text" width="400">
-<img src="data/chair/checkpoints/debug_images/epoch_099/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0199/r_74.png" alt="alt text" width="400">
+<img src="data/chair/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0000/r_72.png" alt="alt text" width="400">
+
+<img src="data/chair/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0100/r_72.png" alt="alt text" width="400">
+
+<img src="data/chair/checkpoints/debug_images/epoch_099/r_74.png" alt="alt text" width="400"><img src="data/lego/checkpoints/debug_images/epoch_0199/r_72.png" alt="alt text" width="400">
 
 ### Original 3DGS
 chair(iteration_7000)
