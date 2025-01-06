@@ -83,14 +83,18 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 ### pure PyTorch implementation
 
 chair&lego (epoch 0,100,199):
+
 <img src="data/chair/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt text" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt text" width="400">
 <img src="data/chair/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt text" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt text" width="400">
 <img src="data/chair/checkpoints/debug_images/epoch_099/r_74.png" alt="alt text" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0199/r_74.png" alt="alt text" width="400">
 
 ### Original 3DGS
 chair(iteration_7000)
+
 <img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="400">
+
 lego(iteration_7000)
+
 <img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="400">
 
 
