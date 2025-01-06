@@ -1,5 +1,13 @@
 # Assignment 4 - Implement Simplified 3D Gaussian Splatting
 
+## Requirements
+
+To install requirements:
+
+```bash
+conda env create -f environment.yml
+```
+
 This assignment covers a complete pipeline for reconstructing a 3D scene represented by 3DGS from multi-view images. The following steps use the [chair folder](data/chair); you can use any other folder by placing images/ in it.
 
 ### Resources:
@@ -69,6 +77,23 @@ After implementation, build your 3DGS model:
 ```
 python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 ```
+
+## Results
+
+### pure PyTorch implementation
+
+chair&lego (epoch 0,100,199):
+<img src="data/chair/checkpoints/debug_images/epoch_0000/r_74.png" alt="epoch_0" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0000/r_74.png" alt="alt epoch_0" width="400">
+<img src="data/chair/checkpoints/debug_images/epoch_0100/r_74.png" alt="epoch_0" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0100/r_74.png" alt="alt epoch_0" width="400">
+<img src="data/chair/checkpoints/debug_images/epoch_099/r_74.png" alt="epoch_0" width="400"><img src="04_3DGS/data/lego/checkpoints/debug_images/epoch_0199/r_74.png" alt="alt epoch_0" width="400">
+
+### Original 3DGS
+chair(iteration_7000)
+<img src="04_3DGS/original 3DGS results/chair_pt_cloud_7000.png" alt="epoch_7000" width="800">
+lego(iteration_7000)
+<img src="04_3DGS/original 3DGS results/chair_pt_cloud_7000.png" alt="epoch_7000" width="800">
+
+
 
 ### Compare with the original 3DGS Implementation
 Since we use a pure PyTorch implementation, the training speed and GPU memory usage are far from satisfactory. Also, we do not implement some crucial parts like adaptive Gaussian densification scheme. Run the [original 3DGS implementation](https://github.com/graphdeco-inria/gaussian-splatting) with the same dataset to compare the results.
