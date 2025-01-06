@@ -89,9 +89,9 @@ chair&lego (epoch 0,100,199):
 
 ### Original 3DGS
 chair(iteration_7000)
-<img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="800">
+<img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="400">
 lego(iteration_7000)
-<img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="800">
+<img src="original 3DGS results/chair_pt_cloud_7000.png" alt="alt text" width="400">
 
 
 
