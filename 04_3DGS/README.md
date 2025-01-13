@@ -94,7 +94,10 @@ chair&lego (epoch 0,100,199):
      <img src="![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)"  style="width: 200px;">
      <img src="https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb"  style="width: 200px;">
 </div>
+
+
 ![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)
+
 ![lego debug-rendering](https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb)
 
 
