@@ -90,20 +90,12 @@ chair&lego (epoch 0,100,199):
 
 <img src="data/chair/checkpoints/debug_images/epoch_0199/r_74.png" alt="alt text" width="400"> <img src="data/lego/checkpoints/debug_images/epoch_0199/r_72.png" alt="alt text" width="400">
 
-
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/7a1b0cc3-31aa-402c-a290-27fde57d68c6"  style="width: 200px;">
-     <img src="https://github.com/user-attachments/assets/6452483d-0af4-478a-a277-aeaa1ef7fe93"  style="width: 200px;">
+     <img src="![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)"  style="width: 200px;">
+     <img src="https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb"  style="width: 200px;">
 </div>
-
-
-
-
-
-https://github.com/user-attachments/assets/208936b6-2578-4fb5-985f-70db226f6ea8
-
-
-
+![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)
+![lego debug-rendering](https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb)
 
 
 ### Original 3DGS
