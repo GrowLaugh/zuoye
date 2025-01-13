@@ -91,8 +91,8 @@ chair&lego (epoch 0,100,199):
 <img src="data/chair/checkpoints/debug_images/epoch_0199/r_74.png" alt="alt text" width="400"> <img src="data/lego/checkpoints/debug_images/epoch_0199/r_72.png" alt="alt text" width="400">
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)"  style="width: 200px;">
-     <img src="https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb"  style="width: 200px;">
+     <img src="![chair debug-rendering](https://github.com/user-attachments/assets/22dd5209-382a-4945-915b-b8c1f1e47630)"  style="width: 400px;">
+     <img src="https://github.com/user-attachments/assets/3c55322b-bf9b-415a-bde2-25fc228875bb"  style="width: 400px;">
 </div>
 
 
